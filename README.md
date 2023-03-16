@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dogs 4 Lyfe](https://github.com/wumpfroot/Dogs-4-lyfe)
 
-- 🌱 I’m currently learning **React and tailwind**
+- 🌱 I’m currently learning **React and Tailwind**
 
 - 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
 
