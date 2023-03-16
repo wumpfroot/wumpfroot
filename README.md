@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Tailwind**
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+- 👨‍💻 All of my projects are available at *Coming soon...*
 
 - 💬 Ask me about **CSS**
 
