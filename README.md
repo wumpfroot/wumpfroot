@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus Kojo</h1>
 <h3 align="center">Aspriring front-end developer from Finland, living in the UK</h3>
 
-- 🔭 I’m currently working on [Dogs 4 Lyfe](https://github.com/wumpfroot/Dogs-4-lyfe)
+- 🔭 I’m currently working on [my portfolio website](https://github.com/wumpfroot/Dev-Portfolio)
 
 - 🌱 I’m currently learning **React and Tailwind**
 
