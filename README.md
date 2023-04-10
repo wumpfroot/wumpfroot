@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 Take a look at my portfolio website at [markuskojo.com](https://markuskojo.com)
+- 👨‍💻 Take a look at my [portfolio](https://markuskojo.com) website
 
 - 💬 Ask me about **CSS**
 
