@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://github.com/wumpfroot/Dev-Portfolio)
 
-- 🌱 I’m currently learning **React and Tailwind**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at *Coming soon...*
+- 👨‍💻 Take a look at my portfolio website at [markuskojo.com](https://markuskojo.com)
 
 - 💬 Ask me about **CSS**
 
