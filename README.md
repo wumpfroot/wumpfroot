@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Markus Kojo</h1>
 <h3 align="center">Aspriring front-end developer from Finland, living in the UK</h3>
 
-- 🔭 I’m currently working on Mock fruit shop using context api
+- 🔭 I’m currently working on Frontendmentor.io project - Space Tourism
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 Take a look at my [portfolio](https://markuskojo.com) website
 
