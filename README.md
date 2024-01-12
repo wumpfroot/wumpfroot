@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Markus Kojo</h1>
 <h3 align="center">Aspriring front-end developer from Finland, living in the UK</h3>
 
-- 🔭 I’m currently working on Frontendmentor.io project - Space Tourism
+- 🔭 I’m currently working on Sonic Rooms - Music room booking app
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Take a look at my [portfolio](https://markuskojo.com) website
 
 - 💬 Ask me about **CSS**
 
-- 📫 How to reach me **markuskojo@msn.com**
+- 📫 How to reach me **itswumpa@gmail.com**
 
 - ⚡ Fun fact **Playing guitar is my other passion**
 
