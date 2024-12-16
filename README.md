@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus Kojo</h1>
-<h3 align="center">Tech enthusiast from Finland, living in the UK</h3>
+<h3 align="center">Tech enthusiast from Finland</h3>
 
-- 🔭 I’m currently working on Vinyl is Forever - MERN app for visualizing my vinyl collection
+- 🔭 I’m currently working on leveling up my Python skills
 
 - 🌱 I’m currently learning **Python**
 
