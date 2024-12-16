@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **CSS**
 
-- 📫 How to reach me **itswumpa@gmail.com**
+- 📫 How to reach me **markuskojo@gmail.com**
 
 - ⚡ Fun fact **Playing guitar is my other passion**
 
