@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on leveling up my Python skills
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and TypeScript**
 
 - 👨‍💻 Take a look at my [portfolio](https://markuskojo.com) website
 
